@@ -79,8 +79,8 @@ h3 {
 }
 .project-row {
   line-height: 2;
-  padding-left: 500px;
-  padding-right: 500px;
+  margin-left: 500px;
+  margin-right: 500px;
 }
 a {
   color: #827397;
